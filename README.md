@@ -1,2 +1,2 @@
 # TechKnowledge
-A collection of resources 
+A collection of resources for learning more about technology.
