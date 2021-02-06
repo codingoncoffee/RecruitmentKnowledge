@@ -1,4 +1,5 @@
-I have divided stuff into technical knowledge and recruitment knowledge.
+A collection of resources that may be useful for Technical Recruiters.
+I have divided stuff into two different sections; technical knowledge and recruitment knowledge.
 
 # Technical Knowledge
 A collection of resources for learning more about technology. Work in progress.
