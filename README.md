@@ -1,4 +1,4 @@
-A collection of resources that may be useful for Technical Recruiters.
+A collection of resources that may be useful for Technical Recruiters.  
 I have divided stuff into two different sections; technical knowledge and recruitment knowledge.
 
 # Technical Knowledge
