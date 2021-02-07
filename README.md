@@ -3,7 +3,7 @@ I have divided stuff into two sections; technical knowledge and recruitment know
 
 # Technical Knowledge
 A collection of resources for learning more about technology. Knowing this stuff will make you a better Tech Recruiter. Work in progress.
-* [CS50 - Computer science basics](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+* [CS50 - Computer science basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi) 📺
 * [Computer Science concepts in layman's terms](http://carlcheo.com/compsci)
 * [REST & HTTP](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
 * [Microservices, Docker and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU) 📺
