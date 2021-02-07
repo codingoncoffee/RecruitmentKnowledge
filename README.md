@@ -6,7 +6,7 @@ A collection of resources for learning more about technology. Knowing this stuff
 * [CS50 - Computer science basics](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [Computer Science concepts in layman's terms](http://carlcheo.com/compsci)
 * [REST & HTTP](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
-* [Microservices, Docker and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU)📺
+* [Microservices, Docker and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU) 📺
 * [Test Driven Development](https://developer.ibm.com/devpractices/software-development/articles/5-steps-of-test-driven-development/)
 * [Object oriented programming](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
 * [Types of programming languages](https://www.freecodecamp.org/news/programming-mental-models-47ccc65eb334/)
