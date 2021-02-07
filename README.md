@@ -1,5 +1,7 @@
 A collection of resources for Technical Recruiters.  
-I have divided stuff into two sections; technical knowledge and recruitment knowledge.
+I have divided stuff into two sections; technical knowledge and recruitment knowledge.  
+📖 = Article  
+📺 = Video
 
 # Technical Knowledge
 A collection of resources for learning more about technology. Knowing this stuff will make you a better Tech Recruiter. Work in progress.
