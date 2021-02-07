@@ -2,8 +2,8 @@ A collection of resources that may be useful for Technical Recruiters.
 I have divided stuff into two different sections; technical knowledge and recruitment knowledge.
 
 # Technical Knowledge
-A collection of resources for learning more about technology. 
-Knowing this stuff will make you a better Tech Recruiter. 
+A collection of resources for learning more about technology.   
+Knowing this stuff will make you a better Tech Recruiter.  
 Work in progress.
 * [CS50 - Computer science basics](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [Description](link)
