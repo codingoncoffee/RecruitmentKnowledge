@@ -31,7 +31,7 @@ A collection of resources for learning more about hiring. Work in progress.
 * [Advice for heads of talent](https://gethppy.com/talent-management/head-talent-startup-heres-can-start)
 * [Series A, B, C Funding: How It Works](https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp)
 * [Employee Experience](https://firstround.com/review/a-new-approach-to-people-ops-that-puts-employee-experience-first/)
-* [Research on Diffeent Selection Methods (https://home.ubalt.edu/tmitch/645/session%204/Schmidt%20&%20Oh%20validity%20and%20util%20100%20yrs%20of%20research%20Wk%20PPR%202016.pdf)
+* [Research on Different Selection Methods](https://medium.com/org-hacking/want-to-improve-recruiting-start-by-learning-from-100-years-of-research-schmidt-a1daa29efcfb)
 * [Arbitrage Hiring](https://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html)
 * [A Collection of Interview Questions](https://docs.google.com/spreadsheets/d/1q5MYDpjC4K66V9bZfUjxsGODxmfo3OixkpHiku4HZyA/edit#gid=423327579)
 * [Scorecards for Recruiters](https://business.linkedin.com/talent-solutions/blog/talent-analytics/2017/how-docusign-used-data-to-motivate-engage-and-show-its-recruiting-team)
