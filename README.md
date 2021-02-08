@@ -24,7 +24,7 @@ A collection of resources for learning more about software engineering. Knowing 
 
 # Recruitment Knowledge
 A collection of content about hiring. Work in progress.
-* [LinkedIn Sourcing basics] (https://www.youtube.com/watch?v=5-O4R-rvvNk)
+* [LinkedIn Sourcing basics](https://www.youtube.com/watch?v=5-O4R-rvvNk) 
 * [Closing candidates](https://www.heavybit.com/library/video/debugging-recruiting/) 
 * [Different technical roles](https://www.youtube.com/playlist?list=PLBO5a-UXskebFGZBfoQevlZinLPdjwJay)
 * [Discussing salaries with candidates](https://business.linkedin.com/talent-solutions/blog/recruiting-tips/2016/how-to-overcome-these-4-difficult-salary-negotiation-scenarios) 
