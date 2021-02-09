@@ -5,7 +5,7 @@ This will likely be a never ending project, at some point I'll tidy the markup t
 
 # Technical Knowledge
 A collection of resources for learning more about software engineering. Knowing this stuff will make you a better Tech Recruiter.
-* [Computer science fundamentals](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi) 
+* [Computer science fundamentals](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8) 
 * [Computer Science concepts in layman's terms](http://carlcheo.com/compsci) 
 * [REST & HTTP](https://www.youtube.com/watch?v=Q-BpqyOT3a8) 
 * [Microservices, Docker and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU) 
