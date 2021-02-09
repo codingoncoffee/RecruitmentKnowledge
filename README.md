@@ -1,28 +1,28 @@
 A collection of resources for Technical Recruiters.  
 I have divided stuff into two sections; technical knowledge and recruitment knowledge.  
 Content is a mix of videos and articles.  
-This will likely be a never ending project, at some point I'll tidy the markup to make it look slightly better.
 
 # Technical Knowledge
 A collection of resources for learning more about software engineering. Knowing this stuff will make you a better Tech Recruiter.
+
+* [Computers and the Internet](https://www.khanacademy.org/computing/code-org/computers-and-the-internet)
 * [Computer science fundamentals](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8) 
 * [Computer Science concepts in layman's terms](http://carlcheo.com/compsci) 
+* [What is coding?](https://blog.usejournal.com/when-you-finish-reading-this-youll-know-how-to-code-721339942b51) 
+* [What is clean code?](https://github.com/denizozger/clean-code) 
+* [Object oriented programming](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/) 
+* [Types of programming languages](https://www.freecodecamp.org/news/programming-mental-models-47ccc65eb334/) 
+* [Frameworks and Libraries](https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/) 
 * [REST & HTTP](https://www.youtube.com/watch?v=Q-BpqyOT3a8) 
 * [Microservices, Docker and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU) 
 * [Test Driven Development](https://developer.ibm.com/devpractices/software-development/articles/5-steps-of-test-driven-development/) 
-* [Object oriented programming](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/) 
-* [Types of programming languages](https://www.freecodecamp.org/news/programming-mental-models-47ccc65eb334/) 
+* [Unit, Integration and End to End testing](https://www.youtube.com/watch?v=r9HdJ8P6GQI) 
 * [MVC architecture](https://www.freecodecamp.org/news/model-view-architecture/) 
 * [SQL vs NoSQL](https://www.guru99.com/sql-vs-nosql.html) 
 * [Continuous Integration vs Continuous Delivery](https://devops.com/continuous-integration-vs-continuous-delivery-theres-important-difference/) 
-* [Full Software Development Lifecycle](https://www.youtube.com/watch?v=9PgZCJNzY9M) 
-* [Unit, Integration and End to End testing](https://www.youtube.com/watch?v=r9HdJ8P6GQI) 
 * [AWS](https://medium.com/faun/explain-aws-to-a-6-year-old-7be561c9fe0b) 
-* [Frameworks and Libraries](https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/) 
 * [Microservices](https://www.guru99.com/microservices-vs-soa.html) 
 * [GitHub](https://medium.com/ft-product-technology/a-guide-to-github-and-deployment-for-non-developers-7811dcf508bb) 
-* [What is clean code?](https://github.com/denizozger/clean-code) 
-* [What is coding?](https://blog.usejournal.com/when-you-finish-reading-this-youll-know-how-to-code-721339942b51) 
 * [What is AI?](https://www.guru99.com/artificial-intelligence-tutorial.html) 
 
 # Recruitment Knowledge
