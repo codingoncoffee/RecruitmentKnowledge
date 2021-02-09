@@ -1,6 +1,7 @@
 A collection of resources for Technical Recruiters.  
 I have divided stuff into two sections; technical knowledge and recruitment knowledge.  
-Content is a mix of videos and articles.
+Content is a mix of videos and articles.  
+This will likely be a never ending project, at some point I'll tidy the markup to make it look slightly better.
 
 # Technical Knowledge
 A collection of resources for learning more about software engineering. Knowing this stuff will make you a better Tech Recruiter.
