@@ -1,4 +1,4 @@
-I've worked as a Technical Recruiter for 11 years and this is a collection of resources I have found most useful.    
+A collection of resources I have found most useful in my experience as a Tech Recruiter.    
 I have divided stuff into two sections; technical knowledge and general recruitment knowledge.  
 Content is a mix of videos and articles.  
 
