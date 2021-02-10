@@ -3,7 +3,7 @@ I have divided stuff into two sections; technical knowledge and general recruitm
 Content is a mix of videos and articles.  
 
 # Technical Knowledge
-A collection of resources for learning more about software engineering. Knowing this stuff will make you a better Tech Recruiter.
+A collection of resources for learning more about software engineering. 
 
 * [Computers and the Internet](https://www.khanacademy.org/computing/code-org/computers-and-the-internet)
 * [Computer science fundamentals](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8) 
