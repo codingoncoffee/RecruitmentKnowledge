@@ -1,5 +1,5 @@
 A collection of resources for Technical Recruiters.  
-I have divided stuff into two sections; technical knowledge and recruitment knowledge.  
+I have divided stuff into two sections; technical knowledge and general recruitment knowledge.  
 Content is a mix of videos and articles.  
 
 # Technical Knowledge
@@ -53,11 +53,11 @@ A collection of content about hiring in general. It's a little unstructured at t
 * [Talk Talent To Me] (https://open.spotify.com/show/5Z6P8hDcdkMvEi7KGMGbQW)
 * [The Talent Cast] (https://open.spotify.com/show/34Wf8rqduL0Ce2bymkS95d)
 
-# Reading List
+# Book List
 
 * [The Holloway Guide to Technical Recruiting and Hiring](https://www.amazon.co.uk/gp/product/195212011X)
-* [Overview of Web Technologies] (https://www.amazon.co.uk/Non-Technical-Guide-Web-Technologies/dp/1492791539)
-* [Never Split The Difference] (https://www.amazon.co.uk/Never-Split-Difference-Negotiating-Depended/dp/1847941494)
-* [How to Win Friends and Influence People] (https://www.amazon.co.uk/How-Win-Friends-Influence-People/dp/0091906814)
-* [Netflix and the Culture of Reinvention] (https://www.amazon.co.uk/Hard-Work-Irrelevant-Reed-Hastings/dp/075355366X)
-* [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead] (https://www.amazon.co.uk/Work-Rules-Insights-Inside-Transform/dp/1444792385)
+* [Overview of Web Technologies](https://www.amazon.co.uk/Non-Technical-Guide-Web-Technologies/dp/1492791539)
+* [Never Split The Difference](https://www.amazon.co.uk/Never-Split-Difference-Negotiating-Depended/dp/1847941494)
+* [How to Win Friends and Influence People](https://www.amazon.co.uk/How-Win-Friends-Influence-People/dp/0091906814)
+* [Netflix and the Culture of Reinvention](https://www.amazon.co.uk/Hard-Work-Irrelevant-Reed-Hastings/dp/075355366X)
+* [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](https://www.amazon.co.uk/Work-Rules-Insights-Inside-Transform/dp/1444792385)
