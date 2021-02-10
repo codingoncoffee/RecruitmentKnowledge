@@ -1,4 +1,4 @@
-A collection of resources for Technical Recruiters.  
+I've worked as a Technical Recruiter for 11 years and this is a collection of resources I have found most useful.    
 I have divided stuff into two sections; technical knowledge and general recruitment knowledge.  
 Content is a mix of videos and articles.  
 
@@ -26,7 +26,7 @@ A collection of resources for learning more about software engineering. Knowing 
 * [What is AI?](https://www.guru99.com/artificial-intelligence-tutorial.html) 
 
 # Recruitment Knowledge
-A collection of content about hiring in general. It's a little unstructured at the moment so this is work in progress.
+A collection of content about hiring in general. It's pretty unstructured at the moment so this is work in progress.
 * [LinkedIn Sourcing basics](https://www.youtube.com/watch?v=5-O4R-rvvNk) 
 * [Closing candidates](https://www.heavybit.com/library/video/debugging-recruiting/) 
 * [Discussing salaries with candidates](https://business.linkedin.com/talent-solutions/blog/recruiting-tips/2016/how-to-overcome-these-4-difficult-salary-negotiation-scenarios) 
