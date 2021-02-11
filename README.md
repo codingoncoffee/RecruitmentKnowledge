@@ -1,5 +1,4 @@
-A collection of resources I have found most useful in my experience as a Tech Recruiter.    
-I have divided stuff into two sections; technical knowledge and general recruitment knowledge.  
+A collection of resources I have found useful in my experience as a Tech Recruiter.   
 Content is a mix of videos and articles.  
 
 # Technical Knowledge
@@ -25,7 +24,7 @@ A collection of resources for learning more about software engineering.
 * [GitHub](https://medium.com/ft-product-technology/a-guide-to-github-and-deployment-for-non-developers-7811dcf508bb) 
 * [What is AI?](https://www.guru99.com/artificial-intelligence-tutorial.html) 
 
-# Recruitment Knowledge
+# Hiring
 A collection of content about hiring in general. It's pretty unstructured at the moment so this is work in progress.
 * [LinkedIn Sourcing basics](https://www.youtube.com/watch?v=5-O4R-rvvNk) 
 * [Closing candidates](https://www.heavybit.com/library/video/debugging-recruiting/) 
@@ -53,7 +52,7 @@ A collection of content about hiring in general. It's pretty unstructured at the
 * [Talk Talent To Me] (https://open.spotify.com/show/5Z6P8hDcdkMvEi7KGMGbQW)
 * [The Talent Cast] (https://open.spotify.com/show/34Wf8rqduL0Ce2bymkS95d)
 
-# Book List
+# Books
 
 * [The Holloway Guide to Technical Recruiting and Hiring](https://www.amazon.co.uk/gp/product/195212011X)
 * [Overview of Web Technologies](https://www.amazon.co.uk/Non-Technical-Guide-Web-Technologies/dp/1492791539)
