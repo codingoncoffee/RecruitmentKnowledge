@@ -13,6 +13,7 @@ A collection of resources for learning more about software engineering.
 * [Types of programming languages](https://www.freecodecamp.org/news/programming-mental-models-47ccc65eb334/) 
 * [Frameworks and Libraries](https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/) 
 * [REST & HTTP](https://www.youtube.com/watch?v=Q-BpqyOT3a8) 
+* [Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/) 
 * [Microservices, Docker and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU) 
 * [Test Driven Development](https://developer.ibm.com/devpractices/software-development/articles/5-steps-of-test-driven-development/) 
 * [Unit, Integration and End to End testing](https://www.youtube.com/watch?v=r9HdJ8P6GQI) 
