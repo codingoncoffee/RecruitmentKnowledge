@@ -5,9 +5,9 @@ Content is a mix of videos and articles.
 A collection of resources for learning more about software engineering. 
 
 * [Computers and the Internet](https://www.khanacademy.org/computing/code-org/computers-and-the-internet)
+* [What is coding?](https://blog.usejournal.com/when-you-finish-reading-this-youll-know-how-to-code-721339942b51) 
 * [Computer science fundamentals](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8) 
 * [Computer Science concepts in layman's terms](http://carlcheo.com/compsci) 
-* [What is coding?](https://blog.usejournal.com/when-you-finish-reading-this-youll-know-how-to-code-721339942b51) 
 * [What is clean code?](https://github.com/denizozger/clean-code) 
 * [Object oriented programming](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/) 
 * [Types of programming languages](https://www.freecodecamp.org/news/programming-mental-models-47ccc65eb334/) 
