@@ -52,6 +52,7 @@ A collection of content about hiring in general. It's pretty unstructured at the
 
 * [Talk Talent To Me](https://open.spotify.com/show/5Z6P8hDcdkMvEi7KGMGbQW)
 * [The Talent Cast](https://open.spotify.com/show/34Wf8rqduL0Ce2bymkS95d)
+* [Hiring A Players](https://open.spotify.com/show/1iYSFyv1VZCFhyMGdcIEMI)
 
 # Books
 
