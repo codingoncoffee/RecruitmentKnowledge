@@ -31,6 +31,8 @@ A collection of resources for learning more about software engineering.
 
 * [Discussing salaries with candidates](https://business.linkedin.com/talent-solutions/blog/recruiting-tips/2016/how-to-overcome-these-4-difficult-salary-negotiation-scenarios) 
 * [Closing candidates](https://www.heavybit.com/library/video/debugging-recruiting/) 
+* [Salary Negotiation](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) 
+* [Offer Negotiation](https://www.freecodecamp.org/news/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea/) 
 
 ## Sourcing
 
@@ -39,7 +41,7 @@ A collection of resources for learning more about software engineering.
 ## Hiring Managers
 
 * [How To Have A Better Relationship With Your Hiring Manager](https://www.youtube.com/watch?v=AOm_DnSiRCY)
-* * [Influencing Hiring Managers](https://business.linkedin.com/talent-solutions/blog/hiring-managers/2017/4-steps-for-influencing-hiring-managers-and-becoming-an-indispensable-advisor)
+* [Influencing Hiring Managers](https://business.linkedin.com/talent-solutions/blog/hiring-managers/2017/4-steps-for-influencing-hiring-managers-and-becoming-an-indispensable-advisor)
 
 ## Hiring strategy
 
