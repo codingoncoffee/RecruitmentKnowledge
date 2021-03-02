@@ -26,11 +26,18 @@ A collection of resources for learning more about software engineering.
 * [What is AI?](https://www.guru99.com/artificial-intelligence-tutorial.html) 
 
 # Hiring
-A collection of content about hiring in general. It's pretty unstructured at the moment so this is work in progress.
+
+## Compensation
+
 * [LinkedIn Sourcing basics](https://www.youtube.com/watch?v=5-O4R-rvvNk) 
 * [Closing candidates](https://www.heavybit.com/library/video/debugging-recruiting/) 
 * [Discussing salaries with candidates](https://business.linkedin.com/talent-solutions/blog/recruiting-tips/2016/how-to-overcome-these-4-difficult-salary-negotiation-scenarios) 
 * [An explanation of different technical roles](https://www.youtube.com/playlist?list=PLBO5a-UXskebFGZBfoQevlZinLPdjwJay)
+
+## Hiring strategy
+
+## Interviewing
+
 * [A Collection of Great Interview Questions](https://docs.google.com/spreadsheets/d/1q5MYDpjC4K66V9bZfUjxsGODxmfo3OixkpHiku4HZyA/edit#gid=423327579)
 * [How To Have A Better Relationship With Your Hiring Manager](https://www.youtube.com/watch?v=AOm_DnSiRCY)
 * [Influencing Hiring Managers](https://business.linkedin.com/talent-solutions/blog/hiring-managers/2017/4-steps-for-influencing-hiring-managers-and-becoming-an-indispensable-advisor)
