@@ -2,7 +2,7 @@ A collection of resources I have found useful in my experience as a Tech Recruit
 Content is a mix of videos and articles.  
 
 # Technical Knowledge
-A collection of resources for learning more about software engineering. 
+For learning more about software engineering. 
 
 * [Computers and the Internet](https://www.khanacademy.org/computing/code-org/computers-and-the-internet)
 * [What is coding?](https://blog.usejournal.com/when-you-finish-reading-this-youll-know-how-to-code-721339942b51) 
@@ -27,12 +27,24 @@ A collection of resources for learning more about software engineering.
 
 # Hiring
 
+## Hiring strategy
+
+* [Hiring A Players](http://scaling4growth.com/wp-content/uploads/2015/10/Who.pdf)
+* [How to Design a Better Hiring Process](https://hbr.org/2020/06/how-to-design-a-better-hiring-process)
+* [Building a Game Changing Talent Strategy](https://hbr.org/2014/01/building-a-game-changing-talent-strategy)
+* [How to Become a Magnet for Talent](http://delian.io/lessons-5)
+* [How to build a strategic hiring plan](https://resources.workable.com/stories-and-insights/how-to-build-a-hiring-plan)
+* [Your Approach to Hiring Is All Wrong](https://hbr.org/2019/05/your-approach-to-hiring-is-all-wrong)
+* [How Coursera Competes Against Google and Facebook](https://review.firstround.com/this-is-how-coursera-competes-against-google-and-facebook-for-the-best-talent)
+* [How to build a Talent Acquisition function](https://medium.com/point-nine-news/9-tricks-to-build-your-talent-acquisition-function-4198f8709145)
+
 ## Compensation
 
 * [Discussing salaries with candidates](https://business.linkedin.com/talent-solutions/blog/recruiting-tips/2016/how-to-overcome-these-4-difficult-salary-negotiation-scenarios) 
 * [Closing candidates](https://www.heavybit.com/library/video/debugging-recruiting/) 
 * [Salary Negotiation](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) 
 * [Offer Negotiation](https://www.freecodecamp.org/news/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea/) 
+* [How to set compensation using commonsense principles](https://erikbern.com/2020/06/08/how-to-set-compensation-using-commonsense-principles.html)
 
 ## Sourcing
 
@@ -42,15 +54,6 @@ A collection of resources for learning more about software engineering.
 
 * [How To Have A Better Relationship With Your Hiring Manager](https://www.youtube.com/watch?v=AOm_DnSiRCY)
 * [Influencing Hiring Managers](https://business.linkedin.com/talent-solutions/blog/hiring-managers/2017/4-steps-for-influencing-hiring-managers-and-becoming-an-indispensable-advisor)
-
-## Hiring strategy
-
-* [Hiring A Players](http://scaling4growth.com/wp-content/uploads/2015/10/Who.pdf)
-* [How to Design a Better Hiring Process](https://hbr.org/2020/06/how-to-design-a-better-hiring-process)
-* [Building a Game Changing Talent Strategy](https://hbr.org/2014/01/building-a-game-changing-talent-strategy)
-* [How to Become a Magnet for Talent](http://delian.io/lessons-5)
-* [How to build a strategic hiring plan](https://resources.workable.com/stories-and-insights/how-to-build-a-hiring-plan)
-* [Your Approach to Hiring Is All Wrong](https://hbr.org/2019/05/your-approach-to-hiring-is-all-wrong)
 
 ## Interviewing
 
@@ -65,7 +68,8 @@ A collection of resources for learning more about software engineering.
 
 ## Diversity 
 
-* [Diversity Hiring](https://www.youtube.com/watch?v=ALZtguv08S4&feature=emb_title)
+* [Diversity Hiring Talk](https://www.youtube.com/watch?v=ALZtguv08S4&feature=emb_title)
+* [Recruiting tactics and strategies to build a more diverse team](https://about.gitlab.com/blog/2020/09/28/recruiting-tactics-and-strategies-to-build-a-more-diverse-team/)
 
 # Podcasts
 
