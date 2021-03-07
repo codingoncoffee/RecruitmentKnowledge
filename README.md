@@ -37,6 +37,7 @@ For learning more about software engineering.
 * [Your Approach to Hiring Is All Wrong](https://hbr.org/2019/05/your-approach-to-hiring-is-all-wrong)
 * [How Coursera Competes Against Google and Facebook](https://review.firstround.com/this-is-how-coursera-competes-against-google-and-facebook-for-the-best-talent)
 * [How to build a Talent Acquisition function](https://medium.com/point-nine-news/9-tricks-to-build-your-talent-acquisition-function-4198f8709145)
+* [Hiring T-Shaped people](https://jchyip.medium.com/why-t-shaped-people-e8706198e437)
 
 ## Compensation
 
@@ -57,7 +58,7 @@ For learning more about software engineering.
 
 ## Interviewing
 
-* [A Collection of Great Interview Questions](https://docs.google.com/spreadsheets/d/1q5MYDpjC4K66V9bZfUjxsGODxmfo3OixkpHiku4HZyA/edit#gid=423327579)
+* [Collection of Great Interview Questions](https://docs.google.com/spreadsheets/d/1q5MYDpjC4K66V9bZfUjxsGODxmfo3OixkpHiku4HZyA/edit#gid=423327579)
 * [Measuring quality of hire](https://www.youtube.com/watch?v=J9892g0h1nA) 
 * [Advice if you've just started as a Head of Talent](https://gethppy.com/talent-management/head-talent-startup-heres-can-start)
 * [Series A, B, C Funding: How It Works](https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp)
@@ -70,6 +71,13 @@ For learning more about software engineering.
 
 * [Diversity Hiring Talk](https://www.youtube.com/watch?v=ALZtguv08S4&feature=emb_title)
 * [Recruiting tactics and strategies to build a more diverse team](https://about.gitlab.com/blog/2020/09/28/recruiting-tactics-and-strategies-to-build-a-more-diverse-team/)
+* [Improve diversity recruiting](https://business.linkedin.com/talent-solutions/blog/diversity/2021/remove-these-barriers-to-improve-diversity-recruiting)
+
+## Job ads I like 
+
+* [C++ Developer](https://www.sonarsource.com/company/jobs/c-developer-advocate)
+* [Front End Programmer](https://m.signalvnoise.com/basecamp-is-hiring-a-front-end-programmer/)
+* [Back End Programmer](https://www.apollographql.com/careers/job/?id=1be1ef9f-57bf-4ed7-9d3c-e7ed7070b762/)
 
 # Podcasts
 
@@ -84,4 +92,4 @@ For learning more about software engineering.
 * [Never Split The Difference](https://www.amazon.co.uk/Never-Split-Difference-Negotiating-Depended/dp/1847941494)
 * [How to Win Friends and Influence People](https://www.amazon.co.uk/How-Win-Friends-Influence-People/dp/0091906814)
 * [Netflix and the Culture of Reinvention](https://www.amazon.co.uk/Hard-Work-Irrelevant-Reed-Hastings/dp/075355366X)
-* [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](https://www.amazon.co.uk/Work-Rules-Insights-Inside-Transform/dp/1444792385)
+* [Work Rules! Insights from Inside Google That Will Transform How You Live and Lead](https://www.amazon.co.uk/Work-Rules-Insights-Inside-Transform/dp/1444792385)
