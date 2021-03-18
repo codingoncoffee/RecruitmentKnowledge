@@ -24,6 +24,7 @@ For learning more about software engineering.
 * [Microservices](https://www.guru99.com/microservices-vs-soa.html) 
 * [GitHub](https://medium.com/ft-product-technology/a-guide-to-github-and-deployment-for-non-developers-7811dcf508bb) 
 * [What is AI?](https://www.guru99.com/artificial-intelligence-tutorial.html) 
+* [An Introduction To Programming Type Systems](https://www.smashingmagazine.com/2013/04/introduction-to-programming-type-systems/) 
 
 # Hiring
 
@@ -47,6 +48,7 @@ For learning more about software engineering.
 * [Salary Negotiation for candidates](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) 
 * [Offer Negotiation for candidates](https://www.freecodecamp.org/news/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea/) 
 * [How to set compensation using commonsense principles](https://erikbern.com/2020/06/08/how-to-set-compensation-using-commonsense-principles.html)
+* [Compensation Packages That Actually Drive Performance](https://hbr.org/2021/01/compensation-packages-that-actually-drive-performance)
 
 ## Sourcing
 
