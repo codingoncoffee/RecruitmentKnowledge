@@ -1,4 +1,4 @@
-A collection of resources I have found useful in my experience as a Tech Recruiter.   
+A collection of resources I have found useful in my experience as a Technical Recruiter.   
 Content is a mix of videos and articles.  
 
 # Technical Knowledge
@@ -38,13 +38,14 @@ For learning more about software engineering.
 * [How Coursera Competes Against Google and Facebook](https://review.firstround.com/this-is-how-coursera-competes-against-google-and-facebook-for-the-best-talent)
 * [How to build a Talent Acquisition function](https://medium.com/point-nine-news/9-tricks-to-build-your-talent-acquisition-function-4198f8709145)
 * [Hiring T-Shaped people](https://jchyip.medium.com/why-t-shaped-people-e8706198e437)
+* [Hiring For Smarts](https://hbr.org/2005/11/hiring-for-smarts)
 
 ## Compensation
 
 * [Discussing salaries with candidates](https://business.linkedin.com/talent-solutions/blog/recruiting-tips/2016/how-to-overcome-these-4-difficult-salary-negotiation-scenarios) 
 * [Closing candidates](https://www.heavybit.com/library/video/debugging-recruiting/) 
-* [Salary Negotiation](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) 
-* [Offer Negotiation](https://www.freecodecamp.org/news/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea/) 
+* [Salary Negotiation for candidates](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) 
+* [Offer Negotiation for candidates](https://www.freecodecamp.org/news/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea/) 
 * [How to set compensation using commonsense principles](https://erikbern.com/2020/06/08/how-to-set-compensation-using-commonsense-principles.html)
 
 ## Sourcing
