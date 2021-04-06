@@ -49,6 +49,7 @@ For learning more about software engineering.
 * [Offer Negotiation for candidates](https://www.freecodecamp.org/news/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea/) 
 * [How to set compensation using commonsense principles](https://erikbern.com/2020/06/08/how-to-set-compensation-using-commonsense-principles.html)
 * [Compensation Packages That Actually Drive Performance](https://hbr.org/2021/01/compensation-packages-that-actually-drive-performance)
+* [15 Rules for Negotiating a Job Offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer)
 
 ## Sourcing
 
@@ -69,6 +70,8 @@ For learning more about software engineering.
 * [Research on Different Selection Methods](https://medium.com/org-hacking/want-to-improve-recruiting-start-by-learning-from-100-years-of-research-schmidt-a1daa29efcfb)
 * [Arbitrage Hiring](https://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html)
 * [Scorecards for Recruiters](https://business.linkedin.com/talent-solutions/blog/talent-analytics/2017/how-docusign-used-data-to-motivate-engage-and-show-its-recruiting-team)
+* [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/)
+* [20 Behavioral Interview Questions](https://www.inc.com/marcel-schwantes/20-interview-questions-that-will-tell-you-if-job-candidates-are-highly-motivated.html)
 
 ## Diversity 
 
@@ -81,6 +84,10 @@ For learning more about software engineering.
 * [C++ Developer](https://www.sonarsource.com/company/jobs/c-developer-advocate)
 * [Front End Programmer](https://m.signalvnoise.com/basecamp-is-hiring-a-front-end-programmer/)
 * [Back End Programmer](https://www.apollographql.com/careers/job/?id=1be1ef9f-57bf-4ed7-9d3c-e7ed7070b762/)
+
+## Job boards 
+
+* [Engineering job boards](https://github.com/randallkanna/awesome-job-list)
 
 # Podcasts
 
